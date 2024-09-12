@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ProspAI_Sprint3.Controllers.MyController",
+    "Method": "AddData",
+    "RelativePath": "add-data",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProspAI_Sprint3.Controllers.MyController",
+    "Method": "Authenticate",
+    "RelativePath": "authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
